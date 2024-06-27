@@ -1,0 +1,126 @@
+[Ship]
+nickname = ew_fighter
+DA_archetype = ships\edge_world\ew_fighter\ew_fighter.cmp
+material_library = ships\edge_world\ew_ships.mat
+material_library = ships\border_world\bw_ships.mat
+material_library = fx\envmapbasic.mat
+
+[Ship]
+nickname = ew_elite
+DA_archetype = ships\edge_world\ew_elite\ew_elite.cmp
+material_library = ships\edge_world\ew_ships.mat
+material_library = ships\border_world\bw_ships.mat
+material_library = fx\envmapbasic.mat
+
+[Ship]
+nickname = ew_elite2
+DA_archetype = ships\edge_world\ew_vheavy_fighter\ew_vheavy_fighter.cmp
+material_library = ships\edge_world\ew_ships.mat
+material_library = ships\border_world\bw_ships.mat
+material_library = fx\envmapbasic.mat
+
+[Ship]
+nickname = ew_freighter
+DA_archetype = ships\edge_world\ew_freighter\ew_freighter.cmp
+material_library = ships\edge_world\ew_ships.mat
+material_library = ships\border_world\bw_ships.mat
+material_library = fx\envmapbasic.mat
+
+;Outcasts
+
+[Ship]
+nickname = fc_ou_fighter
+DA_archetype = ships\edge_world\outcasts\dsy_oc_lf.cmp
+DA_archetype = ships\edge_world\outcasts\OUTCASTS.mat
+material_library = ships\edge_world\ew_ships.mat
+material_library = ships\border_world\bw_ships.mat
+material_library = ships\common_snubs.mat
+
+[Ship]
+nickname = fc_ou_elite
+DA_archetype = ships\edge_world\outcasts\dsy_oc_hf.cmp
+DA_archetype = ships\edge_world\outcasts\OUTCASTS.mat
+material_library = ships\edge_world\ew_ships.mat
+material_library = ships\border_world\bw_ships.mat
+material_library = ships\common_snubs.mat
+material_library = fx\envmapbasic.mat
+
+[Ship]
+nickname = fc_ou_vhf
+DA_archetype = ships\edge_world\outcasts\dsy_oc_vhf.cmp
+DA_archetype = ships\edge_world\outcasts\OUTCASTS.mat
+material_library = ships\edge_world\ew_ships.mat
+material_library = ships\border_world\bw_ships.mat
+material_library = ships\common_snubs.mat
+material_library = fx\envmapbasic.mat
+
+[Ship]
+nickname = fc_ou_bomber
+DA_archetype = ships\edge_world\outcasts\dsy_oc_bomber.cmp
+DA_archetype = ships\edge_world\outcasts\OUTCASTS.mat
+material_library = ships\edge_world\ew_ships.mat
+material_library = ships\border_world\bw_ships.mat
+material_library = ships\common_snubs.mat
+material_library = fx\envmapbasic.mat
+
+[Ship]
+nickname = fc_ou_gunship
+DA_archetype = ships\edge_world\outcasts\OU_GB.cmp
+material_library = ships\edge_world\ew_ships.mat
+material_library = ships\border_world\bw_ships.mat
+material_library = ships\common_snubs.mat
+material_library = fx\envmapbasic.mat
+
+[Ship]
+nickname = fc_ou_destroyer
+DA_archetype = ships\edge_world\outcasts\OU_DEST.cmp
+material_library = ships\edge_world\outcasts\OUTCASTS.mat
+material_library = ships\border_world\bw_ships.mat
+material_library = ships\edge_world\ew_ships.mat
+material_library = ships\kusari\ku_capships.mat
+material_library = ships\utility\utility_liner.mat
+material_library = solar\solar_mat_dockable01.mat
+material_library = solar\solar_mat_ring.mat
+material_library = fx\envmapbasic.mat
+
+[Ship]
+nickname = fc_ou_battlecruiser
+DA_archetype = ships\edge_world\outcasts\OU_BC.cmp
+material_library = ships\edge_world\outcasts\OUTCASTS.mat
+material_library = ships\border_world\bw_ships.mat
+material_library = ships\edge_world\ew_ships.mat
+material_library = ships\kusari\ku_capships.mat
+material_library = ships\LIBERTY\li_capships.mat
+material_library = solar\solar_mat_ring.mat
+material_library = fx\envmapbasic.mat
+
+[Ship]
+nickname = fc_ou_battleship
+DA_archetype = ships\EDGE_WORLD\OUTCASTS\OU_BS.cmp
+material_library = ships\edge_world\ew_ships.mat
+material_library = ships\border_world\bw_ships.mat
+material_library = ships\kusari\ku_capships.mat
+material_library = ships\utility\utility_liner.mat
+material_library = ships\LIBERTY\li_capships.mat
+material_library = ships\common_snubs.mat
+material_library = fx\envmapbasic.mat
+envmap_material = envmapbasic
+
+[Ship]
+nickname = fc_ou_dread
+DA_archetype = ships\EDGE_WORLD\OUTCASTS\OU_DREAD.cmp
+material_library = ships\edge_world\ew_ships.mat
+material_library = ships\BORDER_WORLD\bw_ships.mat
+material_library = ships\kusari\ku_capships.mat
+material_library = ships\LIBERTY\li_capships.mat
+material_library = ships\common_snubs.mat
+material_library = fx\envmapbasic.mat
+
+[Ship]
+nickname = fc_ou_dread_prot
+DA_archetype = ships\EDGE_WORLD\OUTCASTS\OU_DREAD2.cmp
+material_library = ships\BORDER_WORLD\bw_ships.mat
+material_library = ships\kusari\ku_capships.mat
+material_library = ships\LIBERTY\li_capships.mat
+material_library = ships\common_snubs.mat
+material_library = fx\envmapbasic.mat
